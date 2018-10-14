@@ -8,6 +8,7 @@ korean=["김밥천국", "사계"]
 japanese=["시부야", "도쿄"]
 chinese=["왕서방", "북경"]
 
+
 if type == "한식":
     import random
     korea=random.choice(korean)
